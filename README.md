@@ -2,10 +2,10 @@
 
 ## 🛠 Skills
 - **Languages**: C, C++, Python
-- **Embedded**: STM32, Arduino, Raspberry Pi, RTOS, BSP
+- **Embedded**: STM32(ARM Cortex-M) , Arduino, Raspberry Pi, RTOS, BSP
 - **Communication**: UART, SPI, I2C, TCP/IP
-- **AI & Vision**: OpenCV, OpenVINO (기본 활용 경험)
-- **Tools & OS**: Linux, Qt, MariaDB, Git
+- **AI & Vision**: OpenCV, OpenVINO
+- **Tools & OS**: Linux, Qt, MariaDB
 
 ## 🚀 Projects
 - [Smart Study Helper](https://github.com/abin1303/smart-study-helper)  
