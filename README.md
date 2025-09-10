@@ -54,8 +54,6 @@
 
 ---
 
-## 🏆 Baekjoon Online Judge
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abin1303)](https://solved.ac/abin1303)
 
 ---
